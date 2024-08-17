@@ -1,0 +1,7 @@
+<iFModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteRule ^ index.php [QSA,L]
+
+</iFModule>
