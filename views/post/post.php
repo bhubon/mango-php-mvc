@@ -7,5 +7,9 @@
 </head>
 <body>
     <h2><?php echo $message; ?></h2>
+
+    <pre>
+        <?php print_r($books); ?>
+    </pre>
 </body>
 </html>
